@@ -1,0 +1,27 @@
+[
+    {
+        "name": "jorge",
+        "lastname": "callejo",
+        "age": 45,
+        "language": "python",
+        "city": "La Paz"
+    },
+    {
+        "name": "rafael",
+        "lastname": "flores",
+        "age": 46,
+        "language": "javaScript",
+        "city": "Santa Cruz"
+    },
+    {
+        "name": "armando",
+        "lastname": "catres",
+        "age": 44,
+        "language": "javaScript",
+        "city": [
+            "Santa Cruz",
+            "Oruro",
+            "Potosi"
+        ]
+    }
+]

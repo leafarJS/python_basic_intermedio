@@ -1,0 +1,4 @@
+Mi nombre es Jorge
+Mi apellido es Callejo
+Mi edad es de 46 años
+Mis lenguajes favoritos son : "Python y R"
